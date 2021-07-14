@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pratik
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Exploratory data analysis and data visualization
+- 🌱 I’m currently learning Exploratory data analysis and machine learning
 - 💞️ I’m looking to collaborate on Machine learning and data science projects
 - 📫 You can reach me at pratikkankale@gmail.com
 
